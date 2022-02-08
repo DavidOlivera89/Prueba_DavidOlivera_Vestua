@@ -46,7 +46,7 @@ Cuarta iteración:   {3 * (4 / 8)}                                         stack
                                 i      i=}      Evalúo si en                {    <-- Sí                      la cabeza de la              
                                                 la pila está {     
 
-Sí se encuentra { o sea que todo lo que se abrió fue cerrado y se saca de la pila. Y como la 
+SÍ se encuentró { o sea que todo lo que se abrió fue cerrado y se saca de la pila. Y como la 
 pila está vacía... la cadena de entrada es correcta y se devuelve true. Si algo de lo anterior hubiera fallado se devuelve false.
 
 Luego en el código se aplicaron técnicas de programación como utilizar un objeto hash para guardar en la pila los símbolos que luego se buscarán y hacer más fácil el proceso. El código está comentado.
